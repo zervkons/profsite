@@ -15,3 +15,7 @@
 ```
 npm init -y
 ```
+
+```
+npm install @11ty/eleventy
+```
