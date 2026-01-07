@@ -23,7 +23,7 @@ npm install @11ty/eleventy
 ### Run changes
 
 ```
-npx @11ty/eleventy --input=source --output=docs [--serve]
+npx @11ty/eleventy --input=source --output=site
 ```
 
 ```
